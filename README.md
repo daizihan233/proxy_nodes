@@ -34,7 +34,7 @@ trojan节点订阅地址
 - [虎窝精品网盘](http://dav.huwo.club/d/308478-49745401-f72358)
 - 密码：7728
 
-#### <font color=red>clash专区</font>
+#### clash专区
 - 有效节点数量保持在数十个。
 - 配置文件在线地址：
 - https://bitbucket.org/huwo1/proxy_nodes/raw/f31ca9ec67b84071515729ff45b011b6b09c10f2/clash.yaml
