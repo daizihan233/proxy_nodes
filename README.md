@@ -45,3 +45,6 @@ trojan节点订阅地址
 
 #### 联系我们
 - 电报群 https://t.me/hwgfw
+
+#### 更新日志
+2021.7.9 项目从github转至bitbucket；
