@@ -6,7 +6,7 @@
 <head>
 
 
-<title>ss.dswang.ga | 524: A timeout occurred</title>
+<title>ss.dswang.ga | 522: Connection timed out</title>
 <meta charset="UTF-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
@@ -16,7 +16,7 @@
 
 
 <script>
-(function(){if(document.addEventListener&&window.XMLHttpRequest&&JSON&&JSON.stringify){var e=function(a){var c=document.getElementById("error-feedback-survey"),d=document.getElementById("error-feedback-success"),b=new XMLHttpRequest;a={event:"feedback clicked",properties:{errorCode:524,helpful:a,version:1}};b.open("POST","https://sparrow.cloudflare.com/api/v1/event");b.setRequestHeader("Content-Type","application/json");b.setRequestHeader("Sparrow-Source-Key","c771f0e4b54944bebf4261d44bd79a1e");
+(function(){if(document.addEventListener&&window.XMLHttpRequest&&JSON&&JSON.stringify){var e=function(a){var c=document.getElementById("error-feedback-survey"),d=document.getElementById("error-feedback-success"),b=new XMLHttpRequest;a={event:"feedback clicked",properties:{errorCode:522,helpful:a,version:1}};b.open("POST","https://sparrow.cloudflare.com/api/v1/event");b.setRequestHeader("Content-Type","application/json");b.setRequestHeader("Sparrow-Source-Key","c771f0e4b54944bebf4261d44bd79a1e");
 b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove("feedback-hidden")};document.addEventListener("DOMContentLoaded",function(){var a=document.getElementById("error-feedback"),c=document.getElementById("feedback-button-yes"),d=document.getElementById("feedback-button-no");"classList"in a&&(a.classList.remove("feedback-hidden"),c.addEventListener("click",function(){e(!0)}),d.addEventListener("click",function(){e(!1)}))})}})();
 </script>
 
@@ -31,11 +31,11 @@ b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove(
             <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
               
               <span class="cf-error-type">Error</span>
-              <span class="cf-error-code">524</span>
+              <span class="cf-error-code">522</span>
             </h1>
-            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 728a89e0b5373463 &bull;</span>
-            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">2022-07-10 16:06:41 UTC</span>
-            <h2 class="text-gray-600 leading-1.3 text-3xl font-light">A timeout occurred</h2>
+            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 728a8ccc209080e3 &bull;</span>
+            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">2022-07-10 16:07:16 UTC</span>
+            <h2 class="text-gray-600 leading-1.3 text-3xl font-light">Connection timed out</h2>
         </header>
         
         <div class="my-8 bg-gradient-gray">
@@ -81,7 +81,7 @@ b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove(
             <div class="clearfix">
                 <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
                     <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
-                    <p>The origin web server timed out responding to this request.</p>
+                    <p>The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed.</p>
                 </div>
               
                 <div class="w-1/2 md:w-full float-left leading-relaxed">
@@ -90,7 +90,7 @@ b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove(
       <p class="mb-6">Please try again in a few minutes.</p>
 
       <h3 class="text-15 font-semibold mb-2">If you're the owner of this website:</h3>
-      <p><span>The connection to the origin web server was made, but the origin web server timed out before responding. The likely cause is an overloaded background task, database or application, stressing the resources on your web server. To resolve, please work with your hosting provider or web development team to free up resources for your database or overloaded application.</span> <a rel="noopener noreferrer" href="https://support.cloudflare.com/hc/en-us/articles/200171926-Error-524">Additional troubleshooting information here.</a></p>
+      <p><span>Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources.</span> <a rel="noopener noreferrer" href="https://support.cloudflare.com/hc/en-us/articles/200171906-Error-522">Additional troubleshooting information here.</a></p>
                 </div>
             </div>
               
@@ -110,7 +110,7 @@ b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove(
 
         <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">728a89e0b5373463</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">728a8ccc209080e3</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
@@ -127,7 +127,7 @@ b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove(
 
     </div>
 </div>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"728a89e0a9983463","version":"2022.6.0","r":1,"token":"fd425e38dfb54af79a3735cf69df1219","si":100}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"728a8ccc0cf780e3","version":"2022.6.0","r":1,"token":"fd425e38dfb54af79a3735cf69df1219","si":100}' crossorigin="anonymous"></script>
 </body>
 </html>
 
