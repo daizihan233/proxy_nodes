@@ -34,6 +34,11 @@ trojan节点订阅地址
 - [虎窝精品网盘](http://dav.huwo.club/d/308478-49745401-f72358)
 - 密码：7728
 
+#### 不限速，离线下载网盘PikPak
+- 官方下载链接：[https://toapp.mypikpak.com](https://toapp.mypikpak.com/activity/invited?code=225707)
+- 或者访问[虎窝精品软件](http://dav.huwo.club/d/308478-49745401-f72358)
+- 访问密码：7728
+
 #### clash专区
 - 有效节点数量保持在数十个。
 - 配置文件在线地址：
@@ -48,3 +53,4 @@ trojan节点订阅地址
 
 #### 更新日志
 2021.7.9 项目从github转至bitbucket；
+2021.7.13 推荐可离线网盘pikpak
