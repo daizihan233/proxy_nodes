@@ -49,7 +49,7 @@ trojan节点订阅地址
 - 密码：7728
 
 #### 扫码领红包
-<img src="https://bafybeidpetq6hu3mjxov7jipcsw4qdweh7jccfgitjrxholzpfeddxz7jq.ipfs.dweb.link/微信图片_20220716112936.png" width="353px">
+![](https://bafybeidpetq6hu3mjxov7jipcsw4qdweh7jccfgitjrxholzpfeddxz7jq.ipfs.dweb.link/微信图片_20220716112936.png =353)
 
 #### 联系我们
 - 电报群 https://t.me/hwgfw
