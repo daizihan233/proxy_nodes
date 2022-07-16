@@ -48,9 +48,12 @@ trojan节点订阅地址
 - 请查阅[虎窝精品网盘](http://dav.huwo.club/d/308478-49745401-f72358)
 - 密码：7728
 
+#### 扫码领红包
+<img src="https://bafybeidpetq6hu3mjxov7jipcsw4qdweh7jccfgitjrxholzpfeddxz7jq.ipfs.dweb.link/微信图片_20220716112936.png" width="353px">
+
 #### 联系我们
 - 电报群 https://t.me/hwgfw
 
 #### 更新日志
-2021.7.9 项目从github转至bitbucket；
-2021.7.13 推荐可离线网盘pikpak
+- 2021.7.9 项目从github转至bitbucket；
+- 2021.7.13 推荐可离线网盘pikpak;
