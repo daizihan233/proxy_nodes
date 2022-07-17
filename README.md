@@ -32,60 +32,60 @@ clash,v2ray,shadowrocket（小火箭）节点订阅。重点clash项目，因为
 ### 由于阿里云盘对分享文件格式的限制，标明了“自解压”的文件需要在windows系统上双击解压，然后再进行后续操作；城通网盘的资源为官网原文件。
 ### v2ray最新版    
 #### v2ray for linux   
-- 城通网盘：http://dav.huwo.club/f/308478-611328766-bfb1a4?p=7728 （访问密码：7728）
+- 城通网盘：http://dav.huwo.club/f/308478-611328766-bfb1a4 （访问密码：7728）
 - 阿里云盘：https://www.aliyundrive.com/s/VD4TGohawEn  
 #### v2ray for linux使用教程   
-- http://dav.huwo.club/f/308478-611368727-a551e3?p=7728 （访问密码：7728）  
+- http://dav.huwo.club/f/308478-611368727-a551e3 （访问密码：7728）  
 #### v2ray for windows   
-- 城通网盘：http://dav.huwo.club/f/308478-611328737-552e10?p=7728 （访问密码：7728）
+- 城通网盘：http://dav.huwo.club/f/308478-611328737-552e10 （访问密码：7728）
 - 阿里云盘：https://www.aliyundrive.com/s/AprFfnjn3iv  
 #### v2ray for windows 配置教程   
-- http://dav.huwo.club/f/308478-611368728-6590c4?p=7728 （访问密码：7728）  
+- http://dav.huwo.club/f/308478-611368728-6590c4 （访问密码：7728）  
 #### v2ray for 安卓 
-- 城通网盘：http://dav.huwo.club/f/308478-611328754-d76005?p=7728 （访问密码：7728）
+- 城通网盘：http://dav.huwo.club/f/308478-611328754-d76005 （访问密码：7728）
 - 阿里云盘：https://www.aliyundrive.com/s/RfynPJfwqps  
 #### v2ray for 安卓 配置教程 
-- http://dav.huwo.club/f/308478-611368729-aa8bd6?p=7728 （访问密码：7728）  
+- http://dav.huwo.club/f/308478-611368729-aa8bd6 （访问密码：7728）  
 #### v2ray for Mac 
-- 城通网盘：http://dav.huwo.club/f/308478-611328757-164fbe?p=7728 （访问密码：7728）
+- 城通网盘：http://dav.huwo.club/f/308478-611328757-164fbe （访问密码：7728）
 - 阿里云盘：https://www.aliyundrive.com/s/4F9bU5HMCjj  
 #### v2ray for MAC 配置教程 
-- http://dav.huwo.club/f/308478-611368731-5a497d?p=7728 （访问密码：7728）  
+- http://dav.huwo.club/f/308478-611368731-5a497d （访问密码：7728）  
 
 ### clash最新版   
 #### clash for linux   
-- 城通网盘：http://dav.huwo.club/f/308478-611328775-a75cb6?p=7728 （访问密码：7728）
+- 城通网盘：http://dav.huwo.club/f/308478-611328775-a75cb6 （访问密码：7728）
 - 阿里云盘：https://www.aliyundrive.com/s/8yTfLdvRrbz   
 #### clash for Linux 安装使用
-- http://dav.huwo.club/f/308478-611368696-ecb9a0?p=7728 （访问密码：7728）   
+- http://dav.huwo.club/f/308478-611368696-ecb9a0 （访问密码：7728）   
 #### clash for Windows
-- 城通网盘：http://dav.huwo.club/f/308478-611328778-dad1de?p=7728 （访问密码：7728）
+- 城通网盘：http://dav.huwo.club/f/308478-611328778-dad1de （访问密码：7728）
 - 阿里云盘：https://www.aliyundrive.com/s/6QtugUhBg7y   
 #### clash for Windows 使用教程
-- http://dav.huwo.club/f/308478-611368700-d0d235?p=7728 （访问密码：7728）   
+- http://dav.huwo.club/f/308478-611368700-d0d235 （访问密码：7728）   
 #### clash for 安卓
-- 城通网盘：http://dav.huwo.club/f/308478-611328769-cdc3ca?p=7728 （访问密码：7728）
+- 城通网盘：http://dav.huwo.club/f/308478-611328769-cdc3ca （访问密码：7728）
 - 阿里云盘：https://www.aliyundrive.com/s/SvnqE7nWh6J    
 #### clash for 安卓 使用教程
-- http://dav.huwo.club/f/308478-611368695-705470?p=7728 （访问密码：7728）   
+- http://dav.huwo.club/f/308478-611368695-705470 （访问密码：7728）   
 #### clash for Mac
-- 城通网盘：http://dav.huwo.club/f/308478-611328790-234c72?p=7728 （访问密码：7728）
+- 城通网盘：http://dav.huwo.club/f/308478-611328790-234c72 （访问密码：7728）
 - 阿里云盘：https://www.aliyundrive.com/s/4uks34KLcmf    
 #### clash for Mac 使用教程
-- http://dav.huwo.club/f/308478-611368702-30fcc9?p=7728 （访问密码：7728）   
+- http://dav.huwo.club/f/308478-611368702-30fcc9 （访问密码：7728）   
 
 ### 迷雾通最新版（免费稳定翻墙软件，不限时、稳定，完全满足日常使用）    
 #### geph for linux64    
-- 城通网盘：http://dav.huwo.club/f/308478-611328674-207647?p=7728 （访问密码：7728）
+- 城通网盘：http://dav.huwo.club/f/308478-611328674-207647 （访问密码：7728）
 - 阿里网盘：https://www.aliyundrive.com/s/obSTB6y28V6   
 #### geph for windows
-- 城通网盘：http://dav.huwo.club/f/308478-611328715-9ad921?p=7728 （访问密码：7728）
+- 城通网盘：http://dav.huwo.club/f/308478-611328715-9ad921 （访问密码：7728）
 - 阿里网盘：https://www.aliyundrive.com/s/YiNpRncwg2M   
 #### geph for android
-- 城通网盘：http://dav.huwo.club/f/308478-611328631-464d7d?p=7728 （访问密码：7728）
+- 城通网盘：http://dav.huwo.club/f/308478-611328631-464d7d （访问密码：7728）
 - 阿里网盘：https://www.aliyundrive.com/s/tXhMA7kce8z    
 #### geph for macos
-- 城通网盘：http://dav.huwo.club/f/308478-611328713-9316c2?p=7728 （访问密码：7728）
+- 城通网盘：http://dav.huwo.club/f/308478-611328713-9316c2 （访问密码：7728）
 - 阿里网盘：https://www.aliyundrive.com/s/wNdp4X6oiF7   
 
 ### 精品软件
@@ -95,7 +95,7 @@ clash,v2ray,shadowrocket（小火箭）节点订阅。重点clash项目，因为
 ### 扫码领红包
 <img src="https://bafybeidpetq6hu3mjxov7jipcsw4qdweh7jccfgitjrxholzpfeddxz7jq.ipfs.dweb.link/微信图片_20220716112936.png" width="353px">
 
-####联系我们
+#### 联系我们
 - 电报群 https://t.me/hwgfw
 
 ### 更新日志
