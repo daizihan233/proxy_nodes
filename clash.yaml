@@ -1760,7 +1760,6 @@ rules:
  - DOMAIN-SUFFIX,jellyfish.pandora.xiaomi.com,🛑 全球拦截
  - DOMAIN-SUFFIX,migc.g.mi.com,🛑 全球拦截
  - DOMAIN-SUFFIX,migcreport.g.mi.com,🛑 全球拦截
- - DOMAIN-SUFFIX,mis.g.mi.com,🛑 全球拦截
  - DOMAIN-SUFFIX,notice.game.xiaomi.com,🛑 全球拦截
  - DOMAIN-SUFFIX,ppurifier.game.xiaomi.com,🛑 全球拦截
  - DOMAIN-SUFFIX,r.browser.miui.com,🛑 全球拦截
