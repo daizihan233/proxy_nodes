@@ -2252,18 +2252,6 @@ rules:
  - DOMAIN-SUFFIX,steamchina.com,🎯 全球直连
  - DOMAIN-SUFFIX,steamcontent.com,🎯 全球直连
  - DOMAIN-SUFFIX,steamusercontent.com,🎯 全球直连
- - DOMAIN-SUFFIX,t.me,🚀 节点选择
- - DOMAIN-SUFFIX,tdesktop.com,🚀 节点选择
- - DOMAIN-SUFFIX,telegra.ph,🚀 节点选择
- - DOMAIN-SUFFIX,telegram.me,🚀 节点选择
- - DOMAIN-SUFFIX,telegram.org,🚀 节点选择
- - DOMAIN-SUFFIX,telesco.pe,🚀 节点选择
- - IP-CIDR,91.108.0.0/16,🚀 节点选择,no-resolve
- - IP-CIDR,109.239.140.0/24,🚀 节点选择,no-resolve
- - IP-CIDR,149.154.160.0/20,🚀 节点选择,no-resolve
- - IP-CIDR6,2001:67c:4e8::/48,🚀 节点选择,no-resolve
- - IP-CIDR6,2001:b28:f23d::/48,🚀 节点选择,no-resolve
- - IP-CIDR6,2001:b28:f23f::/48,🚀 节点选择,no-resolve
  - DOMAIN-SUFFIX,edgedatg.com,🚀 节点选择
  - DOMAIN-SUFFIX,go.com,🚀 节点选择
  - DOMAIN-KEYWORD,abematv.akamaized.net,🚀 节点选择
