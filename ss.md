@@ -28,8 +28,8 @@
               <span class="cf-error-type">Error</span>
               <span class="cf-error-code">524</span>
             </h1>
-            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 73d02b35eaad8093 &bull;</span>
-            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">2022-08-19 04:34:41 UTC</span>
+            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 73d02cac4cd71f4f &bull;</span>
+            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">2022-08-19 04:35:41 UTC</span>
             <h2 class="text-gray-600 leading-1.3 text-3xl font-light">A timeout occurred</h2>
         </header>
         
@@ -93,7 +93,7 @@
 
         <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">73d02b35eaad8093</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">73d02cac4cd71f4f</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
