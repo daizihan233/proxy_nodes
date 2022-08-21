@@ -1009,7 +1009,6 @@ rules:
  - DOMAIN-SUFFIX,criteo.com,🛑 全球拦截
  - DOMAIN-SUFFIX,criteo.net,🛑 全球拦截
  - DOMAIN-SUFFIX,csbew.com,🛑 全球拦截
- - DOMAIN-SUFFIX,demdex.net,🛑 全球拦截
  - DOMAIN-SUFFIX,directrev.com,🛑 全球拦截
  - DOMAIN-SUFFIX,dumedia.ru,🛑 全球拦截
  - DOMAIN-SUFFIX,effectivemeasure.com,🛑 全球拦截
