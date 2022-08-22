@@ -6,7 +6,7 @@
 <head>
 <meta http-equiv="refresh" content="0">
 
-<title>free.dswang.ga | 525: SSL handshake failed</title>
+<title>free.dswang.ga | 502: Bad gateway</title>
 <meta charset="UTF-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
@@ -26,11 +26,11 @@
             <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
               
               <span class="cf-error-type">Error</span>
-              <span class="cf-error-code">525</span>
+              <span class="cf-error-code">502</span>
             </h1>
-            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 73eaf712cb6980d7 &bull;</span>
-            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">2022-08-22 10:36:26 UTC</span>
-            <h2 class="text-gray-600 leading-1.3 text-3xl font-light">SSL handshake failed</h2>
+            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 73eaf884bc54204a &bull;</span>
+            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">2022-08-22 10:37:03 UTC</span>
+            <h2 class="text-gray-600 leading-1.3 text-3xl font-light">Bad gateway</h2>
         </header>
         
         <div class="my-8 bg-gradient-gray">
@@ -76,16 +76,12 @@
             <div class="clearfix">
                 <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
                     <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
-                    <p>Cloudflare is unable to establish an SSL connection to the origin server.</p>
+                    <p>The web server reported a bad gateway error.</p>
                 </div>
               
                 <div class="w-1/2 md:w-full float-left leading-relaxed">
                     <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
-                          <h3 class="text-15 font-semibold mb-2">If you're a visitor of this website:</h3>
-      <p class="mb-6">Please try again in a few minutes.</p>
-
-      <h3 class="text-15 font-semibold mb-2">If you're the owner of this website:</h3>
-      <p><span>It appears that the SSL configuration used is not compatible with Cloudflare. This could happen for a several reasons, including no shared cipher suites.</span> <a rel="noopener noreferrer" href="https://support.cloudflare.com/hc/en-us/articles/200278659">Additional troubleshooting information here.</a></p>
+                    <p class="mb-6">Please try again in a few minutes.</p>
                 </div>
             </div>
               
@@ -93,7 +89,7 @@
 
         <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">73eaf712cb6980d7</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">73eaf884bc54204a</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
