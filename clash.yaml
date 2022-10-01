@@ -5,62 +5,61 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_55, server: 14.29.124.174, port: 11036, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
-  - {name: 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_56, server: 14.29.124.174, port: 11049, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
-  - {name: 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_57, server: 14.29.124.174, port: 11019, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_56, server: 14.29.124.174, port: 11036, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_57, server: 14.29.124.174, port: 11034, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
   - {name: 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_58, server: 14.29.124.174, port: 11020, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
-  - {name: 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_59, server: 14.29.124.174, port: 11039, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
-  - {name: 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_60, server: 14.29.124.174, port: 11034, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
-  - {name: 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_62, server: 14.29.124.174, port: 11044, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
-  - {name: 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_63, server: 14.29.124.174, port: 11004, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
-  - {name: 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_64, server: 14.29.124.174, port: 11038, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
-  - {name: 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_67, server: 14.29.124.174, port: 11048, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
-  - {name: 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_68, server: 14.29.124.174, port: 11050, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
-  - {name: 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_69, server: 14.29.124.174, port: 11035, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
-  - {name: 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_70, server: 14.29.124.174, port: 11007, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
-  - {name: 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_71, server: 14.29.124.174, port: 11008, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
-  - {name: 🇯🇵 Pool_🇯🇵 JP_239, server: 193.38.139.203, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_290, server: 45.66.134.176, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_291, server: 45.66.134.176, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_292, server: 45.66.134.176, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇯🇵 Pool_🇯🇵JP_293, server: 193.38.139.204, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_294, server: 45.66.134.176, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_295, server: 45.66.134.176, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_296, server: 45.66.134.176, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_297, server: 45.66.134.176, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_298, server: 45.66.134.176, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_299, server: 45.66.134.176, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇸🇬 SG_501, server: 139.99.68.21, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
-  - {name: 🇸🇬 Pool_🇸🇬SG_503, server: 217.197.161.136, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇸🇬 Pool_🇸🇬SG_504, server: 217.197.161.138, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇸🇬 Pool_🇸🇬SG_505, server: 217.197.161.138, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇸🇬 Pool_🇸🇬SG_506, server: 217.197.161.138, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇸🇬 Pool_🇸🇬SG_507, server: 217.197.161.136, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇸🇬 Pool_🇸🇬SG_508, server: 217.197.161.136, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇸🇬 Pool_🇸🇬SG_509, server: 217.197.161.136, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇸🇬 Pool_🇸🇬SG_510, server: 217.197.161.138, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇸🇬 Pool_🇸🇬SG_511, server: 217.197.161.138, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇸🇬 Pool_🇸🇬SG_512, server: 217.197.161.136, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇸🇬 Pool_🇸🇬SG_513, server: 217.197.161.136, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇸🇬 Pool_🇸🇬SG_514, server: 217.197.161.138, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇸🇬 Pool_🇸🇬SG_515, server: 217.197.161.136, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇸🇬 Pool_🇸🇬SG_516, server: 217.197.161.138, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇸🇬 Pool_🇸🇬SG_517, server: 217.197.161.136, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇸🇬 Pool_🇸🇬SG_518, server: 217.197.161.138, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇸🇬 Pool_🇸🇬SG_519, server: 217.197.161.138, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇸🇬 Pool_🇸🇬SG_520, server: 217.197.161.136, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_72, server: 3.sg.zz.xxxxx.x-t-fuckword.network, port: 36679, type: vmess, uuid: 244effd9-0204-3c4a-8537-0dca4e5fd9b5, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_73, server: 4.3.1.fuckppppp.today, port: 58418, type: vmess, uuid: 244effd9-0204-3c4a-8537-0dca4e5fd9b5, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇭🇰 HK_229, server: 128.1.134.126, port: 6666, type: vmess, uuid: 7fb3b571-cda8-40f6-c9e6-db9765ea8faa, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇭🇰 HK_230, server: 23.91.100.243, port: 30862, type: vmess, uuid: 3b0f44e4-dd11-429d-c80f-615b10595db9, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇯🇵 Relay_🇯🇵 JP-🇯🇵JP_240, server: jp2.tzccwz.fit, port: 443, type: vmess, uuid: 0c1149d2-c49d-4000-ecb9-c6001e66a3d0, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /fkkf, ws-headers: {Host: "%7B%22Host%22:%22jp2.tzccwz.fit%22%7D"}}
-  - {name: 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_300, server: vjp3.0bad.com, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /chat, ws-headers: {Host: vjp3.0bad.com}}
-  - {name: 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_301, server: m4.40010010.xyz, port: 37121, type: vmess, uuid: 575e4d92-1056-44c2-8cac-75ef1c859ad5, alterId: 0, cipher: auto, tls: true}
-  - {name: 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_302, server: vjp1.0bad.com, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /chat, ws-headers: {Host: vjp1.0bad.com}}
-  - {name: 🇸🇬 SG_521, server: 8.214.33.158, port: 80, type: vmess, uuid: cb81e6ab-1d83-4ac1-f0ad-ae5c2a7c29ef, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 8.214.33.158}}
-  - {name: 🇸🇬 Relay_🇸🇬SG-🇸🇬SG_522, server: vsg1.0bad.com, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /chat, ws-headers: {Host: vsg1.0bad.com}}
-  - {name: 🇨🇳 Relay_🇹🇼TW-🇹🇼TW_525, server: tw-tb-b.zc20200426.club, port: 39998, type: vmess, uuid: 67c50f6a-816d-3555-89b4-19dd29608f8b, alterId: 0, cipher: auto, tls: true}
-  - {name: 🇨🇳 Relay_🇹🇼TW-🇹🇼TW_526, server: tw-tb-c.zc20200426.club, port: 39999, type: vmess, uuid: 67c50f6a-816d-3555-89b4-19dd29608f8b, alterId: 0, cipher: auto, tls: true}
+  - {name: 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_59, server: 14.29.124.174, port: 11015, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_60, server: 14.29.124.174, port: 11049, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_61, server: 14.29.124.174, port: 11039, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_66, server: 14.29.124.174, port: 11050, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_67, server: 14.29.124.174, port: 11043, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_68, server: 14.29.124.174, port: 11035, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇭🇰 HK_225, server: 148.66.56.99, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇭🇰 HK_226, server: 148.66.56.99, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇭🇰 HK_227, server: 148.66.56.99, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇯🇵 Pool_🇯🇵 JP_238, server: 193.38.139.203, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇯🇵 JP_239, server: 52.197.66.243, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_251, server: 45.66.134.176, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_252, server: 45.66.134.176, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_253, server: 45.66.134.176, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_254, server: 45.66.134.176, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇯🇵 Pool_🇯🇵JP_255, server: 193.38.139.204, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_256, server: 45.66.134.176, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_257, server: 45.66.134.176, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_258, server: 45.66.134.176, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_259, server: 45.66.134.176, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_260, server: 45.66.134.176, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇸🇬 Relay_🇸🇬 SG-🇺🇸US_442, server: 172.105.112.53, port: 21532, type: ss, cipher: chacha20-ietf-poly1305, password: a4f51398-bc7b-4459-96f8-5e6c54a73027}
+  - {name: 🇸🇬 SG_443, server: 139.99.68.21, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
+  - {name: 🇸🇬 Pool_🇸🇬SG_445, server: 217.197.161.138, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇸🇬 Pool_🇸🇬SG_446, server: 217.197.161.138, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇸🇬 Pool_🇸🇬SG_447, server: 217.197.161.136, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇸🇬 Pool_🇸🇬SG_448, server: 217.197.161.138, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇸🇬 Pool_🇸🇬SG_449, server: 217.197.161.136, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇸🇬 Pool_🇸🇬SG_450, server: 217.197.161.136, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇸🇬 Pool_🇸🇬SG_451, server: 217.197.161.136, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇸🇬 Pool_🇸🇬SG_452, server: 217.197.161.136, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇸🇬 Pool_🇸🇬SG_453, server: 217.197.161.136, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇸🇬 Pool_🇸🇬SG_454, server: 217.197.161.138, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇸🇬 Pool_🇸🇬SG_455, server: 217.197.161.138, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇸🇬 Pool_🇸🇬SG_456, server: 217.197.161.136, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇸🇬 Pool_🇸🇬SG_457, server: 217.197.161.136, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇸🇬 Pool_🇸🇬SG_458, server: 217.197.161.138, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇸🇬 Pool_🇸🇬SG_459, server: 217.197.161.136, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇸🇬 Pool_🇸🇬SG_460, server: 217.197.161.138, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇸🇬 Pool_🇸🇬SG_461, server: 217.197.161.138, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇸🇬 Pool_🇸🇬SG_462, server: 217.197.161.138, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇸🇬 Pool_🇸🇬SG_463, server: 217.197.161.136, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇸🇬 Pool_🇸🇬SG_464, server: 217.197.161.138, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_69, server: 3.sg.zz.xxxxx.x-t-fuckword.network, port: 36679, type: vmess, uuid: 244effd9-0204-3c4a-8537-0dca4e5fd9b5, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_70, server: 4.3.1.fuckppppp.today, port: 58418, type: vmess, uuid: 244effd9-0204-3c4a-8537-0dca4e5fd9b5, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇭🇰 HK_228, server: 128.1.134.126, port: 6666, type: vmess, uuid: 7fb3b571-cda8-40f6-c9e6-db9765ea8faa, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_261, server: vjp3.0bad.com, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /chat, ws-headers: {Host: vjp3.0bad.com}}
+  - {name: 🇸🇬 SG_465, server: 8.214.33.158, port: 80, type: vmess, uuid: cb81e6ab-1d83-4ac1-f0ad-ae5c2a7c29ef, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 8.214.33.158}}
+  - {name: 🇸🇬 Relay_🇸🇬SG-🇸🇬SG_466, server: vsg1.0bad.com, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /chat, ws-headers: {Host: vsg1.0bad.com}}
+  - {name: 🇨🇳 Relay_🇹🇼TW-🇹🇼TW_470, server: tw-tb-b.zc20200426.club, port: 39998, type: vmess, uuid: 67c50f6a-816d-3555-89b4-19dd29608f8b, alterId: 0, cipher: auto, tls: true}
+  - {name: 🇨🇳 Relay_🇹🇼TW-🇹🇼TW_471, server: tw-tb-c.zc20200426.club, port: 39999, type: vmess, uuid: 67c50f6a-816d-3555-89b4-19dd29608f8b, alterId: 0, cipher: auto, tls: true}
+  - {name: 🇨🇳 TW_472, server: 61.222.202.140, port: 15789, type: vmess, uuid: 4535e708-5988-4377-a083-755ed60d8068, alterId: 0, cipher: auto, tls: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -69,246 +68,242 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - DIRECT
-      - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_55
       - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_56
       - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_57
       - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_58
       - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_59
       - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_60
-      - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_62
-      - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_63
-      - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_64
+      - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_61
+      - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_66
       - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_67
       - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_68
+      - 🇭🇰 HK_225
+      - 🇭🇰 HK_226
+      - 🇭🇰 HK_227
+      - 🇯🇵 Pool_🇯🇵 JP_238
+      - 🇯🇵 JP_239
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_251
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_252
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_253
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_254
+      - 🇯🇵 Pool_🇯🇵JP_255
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_256
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_257
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_258
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_259
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_260
+      - 🇸🇬 Relay_🇸🇬 SG-🇺🇸US_442
+      - 🇸🇬 SG_443
+      - 🇸🇬 Pool_🇸🇬SG_445
+      - 🇸🇬 Pool_🇸🇬SG_446
+      - 🇸🇬 Pool_🇸🇬SG_447
+      - 🇸🇬 Pool_🇸🇬SG_448
+      - 🇸🇬 Pool_🇸🇬SG_449
+      - 🇸🇬 Pool_🇸🇬SG_450
+      - 🇸🇬 Pool_🇸🇬SG_451
+      - 🇸🇬 Pool_🇸🇬SG_452
+      - 🇸🇬 Pool_🇸🇬SG_453
+      - 🇸🇬 Pool_🇸🇬SG_454
+      - 🇸🇬 Pool_🇸🇬SG_455
+      - 🇸🇬 Pool_🇸🇬SG_456
+      - 🇸🇬 Pool_🇸🇬SG_457
+      - 🇸🇬 Pool_🇸🇬SG_458
+      - 🇸🇬 Pool_🇸🇬SG_459
+      - 🇸🇬 Pool_🇸🇬SG_460
+      - 🇸🇬 Pool_🇸🇬SG_461
+      - 🇸🇬 Pool_🇸🇬SG_462
+      - 🇸🇬 Pool_🇸🇬SG_463
+      - 🇸🇬 Pool_🇸🇬SG_464
       - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_69
       - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_70
-      - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_71
-      - 🇯🇵 Pool_🇯🇵 JP_239
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_290
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_291
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_292
-      - 🇯🇵 Pool_🇯🇵JP_293
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_294
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_295
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_296
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_297
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_298
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_299
-      - 🇸🇬 SG_501
-      - 🇸🇬 Pool_🇸🇬SG_503
-      - 🇸🇬 Pool_🇸🇬SG_504
-      - 🇸🇬 Pool_🇸🇬SG_505
-      - 🇸🇬 Pool_🇸🇬SG_506
-      - 🇸🇬 Pool_🇸🇬SG_507
-      - 🇸🇬 Pool_🇸🇬SG_508
-      - 🇸🇬 Pool_🇸🇬SG_509
-      - 🇸🇬 Pool_🇸🇬SG_510
-      - 🇸🇬 Pool_🇸🇬SG_511
-      - 🇸🇬 Pool_🇸🇬SG_512
-      - 🇸🇬 Pool_🇸🇬SG_513
-      - 🇸🇬 Pool_🇸🇬SG_514
-      - 🇸🇬 Pool_🇸🇬SG_515
-      - 🇸🇬 Pool_🇸🇬SG_516
-      - 🇸🇬 Pool_🇸🇬SG_517
-      - 🇸🇬 Pool_🇸🇬SG_518
-      - 🇸🇬 Pool_🇸🇬SG_519
-      - 🇸🇬 Pool_🇸🇬SG_520
-      - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_72
-      - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_73
-      - 🇭🇰 HK_229
-      - 🇭🇰 HK_230
-      - 🇯🇵 Relay_🇯🇵 JP-🇯🇵JP_240
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_300
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_301
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_302
-      - 🇸🇬 SG_521
-      - 🇸🇬 Relay_🇸🇬SG-🇸🇬SG_522
-      - 🇨🇳 Relay_🇹🇼TW-🇹🇼TW_525
-      - 🇨🇳 Relay_🇹🇼TW-🇹🇼TW_526
+      - 🇭🇰 HK_228
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_261
+      - 🇸🇬 SG_465
+      - 🇸🇬 Relay_🇸🇬SG-🇸🇬SG_466
+      - 🇨🇳 Relay_🇹🇼TW-🇹🇼TW_470
+      - 🇨🇳 Relay_🇹🇼TW-🇹🇼TW_471
+      - 🇨🇳 TW_472
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_55
       - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_56
       - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_57
       - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_58
       - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_59
       - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_60
-      - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_62
-      - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_63
-      - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_64
+      - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_61
+      - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_66
       - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_67
       - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_68
+      - 🇭🇰 HK_225
+      - 🇭🇰 HK_226
+      - 🇭🇰 HK_227
+      - 🇯🇵 Pool_🇯🇵 JP_238
+      - 🇯🇵 JP_239
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_251
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_252
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_253
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_254
+      - 🇯🇵 Pool_🇯🇵JP_255
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_256
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_257
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_258
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_259
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_260
+      - 🇸🇬 Relay_🇸🇬 SG-🇺🇸US_442
+      - 🇸🇬 SG_443
+      - 🇸🇬 Pool_🇸🇬SG_445
+      - 🇸🇬 Pool_🇸🇬SG_446
+      - 🇸🇬 Pool_🇸🇬SG_447
+      - 🇸🇬 Pool_🇸🇬SG_448
+      - 🇸🇬 Pool_🇸🇬SG_449
+      - 🇸🇬 Pool_🇸🇬SG_450
+      - 🇸🇬 Pool_🇸🇬SG_451
+      - 🇸🇬 Pool_🇸🇬SG_452
+      - 🇸🇬 Pool_🇸🇬SG_453
+      - 🇸🇬 Pool_🇸🇬SG_454
+      - 🇸🇬 Pool_🇸🇬SG_455
+      - 🇸🇬 Pool_🇸🇬SG_456
+      - 🇸🇬 Pool_🇸🇬SG_457
+      - 🇸🇬 Pool_🇸🇬SG_458
+      - 🇸🇬 Pool_🇸🇬SG_459
+      - 🇸🇬 Pool_🇸🇬SG_460
+      - 🇸🇬 Pool_🇸🇬SG_461
+      - 🇸🇬 Pool_🇸🇬SG_462
+      - 🇸🇬 Pool_🇸🇬SG_463
+      - 🇸🇬 Pool_🇸🇬SG_464
       - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_69
       - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_70
-      - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_71
-      - 🇯🇵 Pool_🇯🇵 JP_239
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_290
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_291
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_292
-      - 🇯🇵 Pool_🇯🇵JP_293
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_294
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_295
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_296
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_297
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_298
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_299
-      - 🇸🇬 SG_501
-      - 🇸🇬 Pool_🇸🇬SG_503
-      - 🇸🇬 Pool_🇸🇬SG_504
-      - 🇸🇬 Pool_🇸🇬SG_505
-      - 🇸🇬 Pool_🇸🇬SG_506
-      - 🇸🇬 Pool_🇸🇬SG_507
-      - 🇸🇬 Pool_🇸🇬SG_508
-      - 🇸🇬 Pool_🇸🇬SG_509
-      - 🇸🇬 Pool_🇸🇬SG_510
-      - 🇸🇬 Pool_🇸🇬SG_511
-      - 🇸🇬 Pool_🇸🇬SG_512
-      - 🇸🇬 Pool_🇸🇬SG_513
-      - 🇸🇬 Pool_🇸🇬SG_514
-      - 🇸🇬 Pool_🇸🇬SG_515
-      - 🇸🇬 Pool_🇸🇬SG_516
-      - 🇸🇬 Pool_🇸🇬SG_517
-      - 🇸🇬 Pool_🇸🇬SG_518
-      - 🇸🇬 Pool_🇸🇬SG_519
-      - 🇸🇬 Pool_🇸🇬SG_520
-      - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_72
-      - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_73
-      - 🇭🇰 HK_229
-      - 🇭🇰 HK_230
-      - 🇯🇵 Relay_🇯🇵 JP-🇯🇵JP_240
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_300
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_301
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_302
-      - 🇸🇬 SG_521
-      - 🇸🇬 Relay_🇸🇬SG-🇸🇬SG_522
-      - 🇨🇳 Relay_🇹🇼TW-🇹🇼TW_525
-      - 🇨🇳 Relay_🇹🇼TW-🇹🇼TW_526
+      - 🇭🇰 HK_228
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_261
+      - 🇸🇬 SG_465
+      - 🇸🇬 Relay_🇸🇬SG-🇸🇬SG_466
+      - 🇨🇳 Relay_🇹🇼TW-🇹🇼TW_470
+      - 🇨🇳 Relay_🇹🇼TW-🇹🇼TW_471
+      - 🇨🇳 TW_472
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
-      - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_55
       - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_56
       - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_57
       - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_58
       - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_59
       - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_60
-      - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_62
-      - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_63
-      - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_64
+      - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_61
+      - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_66
       - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_67
       - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_68
+      - 🇭🇰 HK_225
+      - 🇭🇰 HK_226
+      - 🇭🇰 HK_227
+      - 🇯🇵 Pool_🇯🇵 JP_238
+      - 🇯🇵 JP_239
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_251
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_252
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_253
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_254
+      - 🇯🇵 Pool_🇯🇵JP_255
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_256
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_257
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_258
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_259
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_260
+      - 🇸🇬 Relay_🇸🇬 SG-🇺🇸US_442
+      - 🇸🇬 SG_443
+      - 🇸🇬 Pool_🇸🇬SG_445
+      - 🇸🇬 Pool_🇸🇬SG_446
+      - 🇸🇬 Pool_🇸🇬SG_447
+      - 🇸🇬 Pool_🇸🇬SG_448
+      - 🇸🇬 Pool_🇸🇬SG_449
+      - 🇸🇬 Pool_🇸🇬SG_450
+      - 🇸🇬 Pool_🇸🇬SG_451
+      - 🇸🇬 Pool_🇸🇬SG_452
+      - 🇸🇬 Pool_🇸🇬SG_453
+      - 🇸🇬 Pool_🇸🇬SG_454
+      - 🇸🇬 Pool_🇸🇬SG_455
+      - 🇸🇬 Pool_🇸🇬SG_456
+      - 🇸🇬 Pool_🇸🇬SG_457
+      - 🇸🇬 Pool_🇸🇬SG_458
+      - 🇸🇬 Pool_🇸🇬SG_459
+      - 🇸🇬 Pool_🇸🇬SG_460
+      - 🇸🇬 Pool_🇸🇬SG_461
+      - 🇸🇬 Pool_🇸🇬SG_462
+      - 🇸🇬 Pool_🇸🇬SG_463
+      - 🇸🇬 Pool_🇸🇬SG_464
       - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_69
       - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_70
-      - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_71
-      - 🇯🇵 Pool_🇯🇵 JP_239
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_290
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_291
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_292
-      - 🇯🇵 Pool_🇯🇵JP_293
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_294
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_295
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_296
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_297
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_298
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_299
-      - 🇸🇬 SG_501
-      - 🇸🇬 Pool_🇸🇬SG_503
-      - 🇸🇬 Pool_🇸🇬SG_504
-      - 🇸🇬 Pool_🇸🇬SG_505
-      - 🇸🇬 Pool_🇸🇬SG_506
-      - 🇸🇬 Pool_🇸🇬SG_507
-      - 🇸🇬 Pool_🇸🇬SG_508
-      - 🇸🇬 Pool_🇸🇬SG_509
-      - 🇸🇬 Pool_🇸🇬SG_510
-      - 🇸🇬 Pool_🇸🇬SG_511
-      - 🇸🇬 Pool_🇸🇬SG_512
-      - 🇸🇬 Pool_🇸🇬SG_513
-      - 🇸🇬 Pool_🇸🇬SG_514
-      - 🇸🇬 Pool_🇸🇬SG_515
-      - 🇸🇬 Pool_🇸🇬SG_516
-      - 🇸🇬 Pool_🇸🇬SG_517
-      - 🇸🇬 Pool_🇸🇬SG_518
-      - 🇸🇬 Pool_🇸🇬SG_519
-      - 🇸🇬 Pool_🇸🇬SG_520
-      - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_72
-      - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_73
-      - 🇭🇰 HK_229
-      - 🇭🇰 HK_230
-      - 🇯🇵 Relay_🇯🇵 JP-🇯🇵JP_240
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_300
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_301
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_302
-      - 🇸🇬 SG_521
-      - 🇸🇬 Relay_🇸🇬SG-🇸🇬SG_522
-      - 🇨🇳 Relay_🇹🇼TW-🇹🇼TW_525
-      - 🇨🇳 Relay_🇹🇼TW-🇹🇼TW_526
+      - 🇭🇰 HK_228
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_261
+      - 🇸🇬 SG_465
+      - 🇸🇬 Relay_🇸🇬SG-🇸🇬SG_466
+      - 🇨🇳 Relay_🇹🇼TW-🇹🇼TW_470
+      - 🇨🇳 Relay_🇹🇼TW-🇹🇼TW_471
+      - 🇨🇳 TW_472
   - name: 🔮 负载均衡
     type: load-balance
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
-      - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_55
       - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_56
       - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_57
       - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_58
       - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_59
       - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_60
-      - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_62
-      - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_63
-      - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_64
+      - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_61
+      - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_66
       - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_67
       - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_68
+      - 🇭🇰 HK_225
+      - 🇭🇰 HK_226
+      - 🇭🇰 HK_227
+      - 🇯🇵 Pool_🇯🇵 JP_238
+      - 🇯🇵 JP_239
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_251
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_252
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_253
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_254
+      - 🇯🇵 Pool_🇯🇵JP_255
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_256
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_257
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_258
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_259
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_260
+      - 🇸🇬 Relay_🇸🇬 SG-🇺🇸US_442
+      - 🇸🇬 SG_443
+      - 🇸🇬 Pool_🇸🇬SG_445
+      - 🇸🇬 Pool_🇸🇬SG_446
+      - 🇸🇬 Pool_🇸🇬SG_447
+      - 🇸🇬 Pool_🇸🇬SG_448
+      - 🇸🇬 Pool_🇸🇬SG_449
+      - 🇸🇬 Pool_🇸🇬SG_450
+      - 🇸🇬 Pool_🇸🇬SG_451
+      - 🇸🇬 Pool_🇸🇬SG_452
+      - 🇸🇬 Pool_🇸🇬SG_453
+      - 🇸🇬 Pool_🇸🇬SG_454
+      - 🇸🇬 Pool_🇸🇬SG_455
+      - 🇸🇬 Pool_🇸🇬SG_456
+      - 🇸🇬 Pool_🇸🇬SG_457
+      - 🇸🇬 Pool_🇸🇬SG_458
+      - 🇸🇬 Pool_🇸🇬SG_459
+      - 🇸🇬 Pool_🇸🇬SG_460
+      - 🇸🇬 Pool_🇸🇬SG_461
+      - 🇸🇬 Pool_🇸🇬SG_462
+      - 🇸🇬 Pool_🇸🇬SG_463
+      - 🇸🇬 Pool_🇸🇬SG_464
       - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_69
       - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_70
-      - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_71
-      - 🇯🇵 Pool_🇯🇵 JP_239
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_290
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_291
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_292
-      - 🇯🇵 Pool_🇯🇵JP_293
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_294
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_295
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_296
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_297
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_298
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_299
-      - 🇸🇬 SG_501
-      - 🇸🇬 Pool_🇸🇬SG_503
-      - 🇸🇬 Pool_🇸🇬SG_504
-      - 🇸🇬 Pool_🇸🇬SG_505
-      - 🇸🇬 Pool_🇸🇬SG_506
-      - 🇸🇬 Pool_🇸🇬SG_507
-      - 🇸🇬 Pool_🇸🇬SG_508
-      - 🇸🇬 Pool_🇸🇬SG_509
-      - 🇸🇬 Pool_🇸🇬SG_510
-      - 🇸🇬 Pool_🇸🇬SG_511
-      - 🇸🇬 Pool_🇸🇬SG_512
-      - 🇸🇬 Pool_🇸🇬SG_513
-      - 🇸🇬 Pool_🇸🇬SG_514
-      - 🇸🇬 Pool_🇸🇬SG_515
-      - 🇸🇬 Pool_🇸🇬SG_516
-      - 🇸🇬 Pool_🇸🇬SG_517
-      - 🇸🇬 Pool_🇸🇬SG_518
-      - 🇸🇬 Pool_🇸🇬SG_519
-      - 🇸🇬 Pool_🇸🇬SG_520
-      - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_72
-      - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_73
-      - 🇭🇰 HK_229
-      - 🇭🇰 HK_230
-      - 🇯🇵 Relay_🇯🇵 JP-🇯🇵JP_240
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_300
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_301
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_302
-      - 🇸🇬 SG_521
-      - 🇸🇬 Relay_🇸🇬SG-🇸🇬SG_522
-      - 🇨🇳 Relay_🇹🇼TW-🇹🇼TW_525
-      - 🇨🇳 Relay_🇹🇼TW-🇹🇼TW_526
+      - 🇭🇰 HK_228
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_261
+      - 🇸🇬 SG_465
+      - 🇸🇬 Relay_🇸🇬SG-🇸🇬SG_466
+      - 🇨🇳 Relay_🇹🇼TW-🇹🇼TW_470
+      - 🇨🇳 Relay_🇹🇼TW-🇹🇼TW_471
+      - 🇨🇳 TW_472
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -328,62 +323,61 @@ proxy-groups:
       - ♻️ 自动选择
       - 🔯 故障转移
       - 🔮 负载均衡
-      - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_55
       - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_56
       - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_57
       - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_58
       - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_59
       - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_60
-      - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_62
-      - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_63
-      - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_64
+      - 🇭🇰 Relay_🇨🇳 CN-🇭🇰HK_61
+      - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_66
       - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_67
       - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_68
+      - 🇭🇰 HK_225
+      - 🇭🇰 HK_226
+      - 🇭🇰 HK_227
+      - 🇯🇵 Pool_🇯🇵 JP_238
+      - 🇯🇵 JP_239
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_251
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_252
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_253
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_254
+      - 🇯🇵 Pool_🇯🇵JP_255
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_256
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_257
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_258
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_259
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_260
+      - 🇸🇬 Relay_🇸🇬 SG-🇺🇸US_442
+      - 🇸🇬 SG_443
+      - 🇸🇬 Pool_🇸🇬SG_445
+      - 🇸🇬 Pool_🇸🇬SG_446
+      - 🇸🇬 Pool_🇸🇬SG_447
+      - 🇸🇬 Pool_🇸🇬SG_448
+      - 🇸🇬 Pool_🇸🇬SG_449
+      - 🇸🇬 Pool_🇸🇬SG_450
+      - 🇸🇬 Pool_🇸🇬SG_451
+      - 🇸🇬 Pool_🇸🇬SG_452
+      - 🇸🇬 Pool_🇸🇬SG_453
+      - 🇸🇬 Pool_🇸🇬SG_454
+      - 🇸🇬 Pool_🇸🇬SG_455
+      - 🇸🇬 Pool_🇸🇬SG_456
+      - 🇸🇬 Pool_🇸🇬SG_457
+      - 🇸🇬 Pool_🇸🇬SG_458
+      - 🇸🇬 Pool_🇸🇬SG_459
+      - 🇸🇬 Pool_🇸🇬SG_460
+      - 🇸🇬 Pool_🇸🇬SG_461
+      - 🇸🇬 Pool_🇸🇬SG_462
+      - 🇸🇬 Pool_🇸🇬SG_463
+      - 🇸🇬 Pool_🇸🇬SG_464
       - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_69
       - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_70
-      - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_71
-      - 🇯🇵 Pool_🇯🇵 JP_239
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_290
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_291
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_292
-      - 🇯🇵 Pool_🇯🇵JP_293
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_294
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_295
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_296
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_297
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_298
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_299
-      - 🇸🇬 SG_501
-      - 🇸🇬 Pool_🇸🇬SG_503
-      - 🇸🇬 Pool_🇸🇬SG_504
-      - 🇸🇬 Pool_🇸🇬SG_505
-      - 🇸🇬 Pool_🇸🇬SG_506
-      - 🇸🇬 Pool_🇸🇬SG_507
-      - 🇸🇬 Pool_🇸🇬SG_508
-      - 🇸🇬 Pool_🇸🇬SG_509
-      - 🇸🇬 Pool_🇸🇬SG_510
-      - 🇸🇬 Pool_🇸🇬SG_511
-      - 🇸🇬 Pool_🇸🇬SG_512
-      - 🇸🇬 Pool_🇸🇬SG_513
-      - 🇸🇬 Pool_🇸🇬SG_514
-      - 🇸🇬 Pool_🇸🇬SG_515
-      - 🇸🇬 Pool_🇸🇬SG_516
-      - 🇸🇬 Pool_🇸🇬SG_517
-      - 🇸🇬 Pool_🇸🇬SG_518
-      - 🇸🇬 Pool_🇸🇬SG_519
-      - 🇸🇬 Pool_🇸🇬SG_520
-      - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_72
-      - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_73
-      - 🇭🇰 HK_229
-      - 🇭🇰 HK_230
-      - 🇯🇵 Relay_🇯🇵 JP-🇯🇵JP_240
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_300
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_301
-      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_302
-      - 🇸🇬 SG_521
-      - 🇸🇬 Relay_🇸🇬SG-🇸🇬SG_522
-      - 🇨🇳 Relay_🇹🇼TW-🇹🇼TW_525
-      - 🇨🇳 Relay_🇹🇼TW-🇹🇼TW_526
+      - 🇭🇰 HK_228
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_261
+      - 🇸🇬 SG_465
+      - 🇸🇬 Relay_🇸🇬SG-🇸🇬SG_466
+      - 🇨🇳 Relay_🇹🇼TW-🇹🇼TW_470
+      - 🇨🇳 Relay_🇹🇼TW-🇹🇼TW_471
+      - 🇨🇳 TW_472
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
