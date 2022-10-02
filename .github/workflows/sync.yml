@@ -8,10 +8,21 @@ jobs:
   git-sync:
     runs-on: ubuntu-latest
     steps:
-      - name: git-sync
-        uses: daizihan233/git-sync@v5
+      - name: Sync files
+    # You may pin to the exact commit or the version.
+    # uses: denis-tingaikin/sync-files@7cf3a71d4530214ecee324faf12cf884a275d366
+        uses: denis-tingaikin/sync-files@v1.0.2
         with:
-          source_repo: "https://bitbucket.org/huwo1/proxy_nodes.git"
-          source_branch: "main"
-          destination_repo: "https://daizihan233/proxy_nodes.git"
-          destination_branch: "main"
+          # The email of the committer.
+          git-author-email: daizihan233@gmail.com
+          # The name of the committer.
+          git-author-name: daizihan233
+          # The GitHub repository with which synchronizing.
+          sync-repository: https://bitbucket.org/huwo1/proxy_nodes
+          # The regex pattern for files that allowed to update. By default all files.
+          allow-files-pattern: .* # optional, default is .*
+          # 
+          sync-branch-name: main # optional, default is main
+          # 
+          # 
+          result-branch-name: main # optional, default is 
