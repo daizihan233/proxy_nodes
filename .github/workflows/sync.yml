@@ -14,10 +14,10 @@ jobs:
         uses: zent-contrib/sync-git-branch@v1.0.0
         with:
           # SSH URL of the source repository. Defaults to the repository this actions runs in.
-          source-repo: https://HanTools@bitbucket.org/huwo1/proxy_nodes.git # optional, default is git@github.com:${{ github.repository }}.git
+          source-repo: git@github.com:${{ github.repository }}.git # optional, default is git@github.com:${{ github.repository }}.git
           # Branch name in source repository.
           source-branch: main # default is 
           # SSH URL of the destination repository.
-          destination-repo: daizihan233@github.com:proxy_nodes.git # default is 
+          destination-repo: git@bitbucket.org:huwo1/proxy_nodes.git # default is 
           # Branch name in destination repository. Defaults to source-branch if not present.
           destination-branch: main # optional, default is 
