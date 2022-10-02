@@ -13,5 +13,5 @@ jobs:
         with:
           source_repo: "https://bitbucket.org/huwo1/proxy_nodes.git"
           source_branch: "main"
-          destination_repo: "https:${{ secrets.USERNAME }}:${{ secrets.PASSWORD }}daizihan233/proxy_nodes.git"
+          destination_repo: "https:${{ secrets.USERNAME }}:${{ secrets.PASSWORD }}@daizihan233/proxy_nodes.git"
           destination_branch: "main"
