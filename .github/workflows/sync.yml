@@ -8,21 +8,16 @@ jobs:
   git-sync:
     runs-on: ubuntu-latest
     steps:
-      - name: Sync files
-    # You may pin to the exact commit or the version.
-    # uses: denis-tingaikin/sync-files@7cf3a71d4530214ecee324faf12cf884a275d366
-        uses: daizihan233/sync-files@1
+      - name: Sync Git Branch Action
+  # You may pin to the exact commit or the version.
+  # uses: zent-contrib/sync-git-branch@f4e89a1773c5fc1aa37bb6f879da51448e23d935
+        uses: zent-contrib/sync-git-branch@v1.0.0
         with:
-          # The email of the committer.
-          git-author-email: daizihan233@gmail.com
-          # The name of the committer.
-          git-author-name: daizihan233
-          # The GitHub repository with which synchronizing.
-          sync-repository: https://bitbucket.org/huwo1/proxy_nodes
-          # The regex pattern for files that allowed to update. By default all files.
-          allow-files-pattern: .* # optional, default is .*
-          # 
-          sync-branch-name: main # optional, default is main
-          # 
-          # 
-          result-branch-name: main # optional, default is 
+          # SSH URL of the source repository. Defaults to the repository this actions runs in.
+          source-repo: https://HanTools@bitbucket.org/huwo1/proxy_nodes.git # optional, default is git@github.com:${{ github.repository }}.git
+          # Branch name in source repository.
+          source-branch: main # default is 
+          # SSH URL of the destination repository.
+          destination-repo: daizihan233@github.com:proxy_nodes.git # default is 
+          # Branch name in destination repository. Defaults to source-branch if not present.
+          destination-branch: main # optional, default is 
