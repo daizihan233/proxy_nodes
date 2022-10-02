@@ -11,7 +11,7 @@ jobs:
       - name: Sync files
     # You may pin to the exact commit or the version.
     # uses: denis-tingaikin/sync-files@7cf3a71d4530214ecee324faf12cf884a275d366
-        uses: denis-tingaikin/sync-files@v1.0.2
+        uses: daizihan233/sync-files@1
         with:
           # The email of the committer.
           git-author-email: daizihan233@gmail.com
