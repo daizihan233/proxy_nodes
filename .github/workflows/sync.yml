@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: git-sync
-        uses: daizihan233/git-sync@v4
+        uses: daizihan233/git-sync@v5
         with:
           source_repo: "https://bitbucket.org/huwo1/proxy_nodes.git"
           source_branch: "main"
