@@ -21,12 +21,10 @@
 [https://raw.githubusercontent.com/daizihan233/proxy_nodes/main/proxy.md](https://raw.githubusercontent.com/daizihan233/proxy_nodes/main/proxy.md)
 #### ss节点订阅地址
 [https://raw.githubusercontent.com/daizihan233/proxy_nodes/main/ss.md](https://raw.githubusercontent.com/daizihan233/proxy_nodes/main/ss.md)
-
 #### vmess节点订阅地址
-([https://raw.githubusercontent.com/daizihan233/proxy_nodes/main/vmess.md](https://raw.githubusercontent.com/daizihan233/proxy_nodes/main/vmess.md))
-
+[https://raw.githubusercontent.com/daizihan233/proxy_nodes/main/vmess.md](https://raw.githubusercontent.com/daizihan233/proxy_nodes/main/vmess.md)
 #### trojan节点订阅地址
-([https://bitbucket.org/huwo1/proxy_nodes/raw/f31ca9ec67b84071515729ff45b011b6b09c10f2/trojan.md](https://bitbucket.org/huwo1/proxy_nodes/raw/f31ca9ec67b84071515729ff45b011b6b09c10f2/trojan.md))
+[https://raw.githubusercontent.com/daizihan233/proxy_nodes/main/trojan.md](https://raw.githubusercontent.com/daizihan233/proxy_nodes/main/trojan.md)
 
 ### clash专区
 - 有效节点数量保持在数十个。
