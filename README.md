@@ -10,7 +10,7 @@
 
 ### 节点资源
 - 本仓库仅仅是定时同步，**不对节点的安全性、可用性做保证**
-- 同步间隔为 2 小时，工具中也建议设置为 2 小时
+- 同步间隔为  小时，工具中也建议设置为 1-2 小时
 - clash等其他不能直接使用订阅地址的用户，请自行前往节点转换托管平台([https://acl4ssr-sub.github.io/](https://acl4ssr-sub.github.io/ "https://acl4ssr-sub.github.io/"))进行转换。
 - ss.md 为ss节点，trojan.md 为trojan节点，vmess.md 为v2ray节点，proxy.md 为综合节点，clash.yaml 为clash配置文件。
 
