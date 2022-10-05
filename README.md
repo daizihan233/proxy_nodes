@@ -1,13 +1,15 @@
 # 首先说一件事
 这个是从 BitBucket 同步过来的，主要是为了解决BitBucket的Raw链接不固定的问题
+[https://bitbucket.org/huwo1/proxy_nodes/src/main/ 原作传送门](https://bitbucket.org/huwo1/proxy_nodes/src/main/)
 # clash,v2ray,shadowrocket节点订阅
 
 ### 介绍
-clash,v2ray,shadowrocket（小火箭）节点订阅。重点clash项目，因为本人每天都在使用。😀😀😀
+> clash,v2ray,shadowrocket（小火箭）节点订阅。重点clash项目，因为本人每天都在使用。😀😀😀
+本人发现BitBucket的Raw链接不是固定的，所以同步到GitHub
 
 ### 节点资源
-- 本订阅所提供的所有节点均来自于互联网公益组织，本人只是做了一下采集和整合，免费提供给有需要的网友，因此不对节点的稳定性、可用性提供任何承诺。
-- 计划每天不定时更新数次。(目前更新时间间隔为2小时，建议你工具设置中订阅更新时间不大于2小时。)
+- 本仓库仅仅是定时同步，**不对节点的安全性、可用性做保证**
+- 同步间隔为 2 小时，工具中也建议设置为 2 小时
 - clash等其他不能直接使用订阅地址的用户，请自行前往节点转换托管平台([https://acl4ssr-sub.github.io/](https://acl4ssr-sub.github.io/ "https://acl4ssr-sub.github.io/"))进行转换。
 - ss.md 为ss节点，trojan.md 为trojan节点，vmess.md 为v2ray节点，proxy.md 为综合节点，clash.yaml 为clash配置文件。
 
@@ -15,13 +17,12 @@ clash,v2ray,shadowrocket（小火箭）节点订阅。重点clash项目，因为
 #### 适用APP
 - v2ray系列，shadowrocket（小火箭），clash系列。
 #### 综合节点订阅地址
-([https://bitbucket.org/huwo1/proxy_nodes/raw/f31ca9ec67b84071515729ff45b011b6b09c10f2/proxy.md](https://bitbucket.org/huwo1/proxy_nodes/raw/f31ca9ec67b84071515729ff45b011b6b09c10f2/proxy.md))
-
+[https://raw.githubusercontent.com/daizihan233/proxy_nodes/main/proxy.md](https://raw.githubusercontent.com/daizihan233/proxy_nodes/main/proxy.md)
 #### ss节点订阅地址
-([https://bitbucket.org/huwo1/proxy_nodes/raw/f31ca9ec67b84071515729ff45b011b6b09c10f2/ss.md](https://bitbucket.org/huwo1/proxy_nodes/raw/f31ca9ec67b84071515729ff45b011b6b09c10f2/ss.md))
+[https://raw.githubusercontent.com/daizihan233/proxy_nodes/main/ss.md](https://raw.githubusercontent.com/daizihan233/proxy_nodes/main/ss.md)
 
 #### vmess节点订阅地址
-([https://bitbucket.org/huwo1/proxy_nodes/raw/f31ca9ec67b84071515729ff45b011b6b09c10f2/vmess.md](https://bitbucket.org/huwo1/proxy_nodes/raw/f31ca9ec67b84071515729ff45b011b6b09c10f2/vmess.md))
+([https://raw.githubusercontent.com/daizihan233/proxy_nodes/main/vmess.md](https://raw.githubusercontent.com/daizihan233/proxy_nodes/main/vmess.md))
 
 #### trojan节点订阅地址
 ([https://bitbucket.org/huwo1/proxy_nodes/raw/f31ca9ec67b84071515729ff45b011b6b09c10f2/trojan.md](https://bitbucket.org/huwo1/proxy_nodes/raw/f31ca9ec67b84071515729ff45b011b6b09c10f2/trojan.md))
@@ -29,7 +30,7 @@ clash,v2ray,shadowrocket（小火箭）节点订阅。重点clash项目，因为
 ### clash专区
 - 有效节点数量保持在数十个。
 - 配置文件在线地址：
-- https://bitbucket.org/huwo1/proxy_nodes/raw/f31ca9ec67b84071515729ff45b011b6b09c10f2/clash.yaml
+- https://raw.githubusercontent.com/daizihan233/proxy_nodes/main/clash.yaml
 
 ### 由于阿里云盘对分享文件格式的限制，标明了“自解压”的文件需要在windows系统上双击解压，然后再进行后续操作；城通网盘的资源为官网原文件。
 ### v2ray最新版    
